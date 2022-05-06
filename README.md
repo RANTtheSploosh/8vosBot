@@ -1,4 +1,4 @@
-# 8voBot
+# 8vosBot
 Bot na 8vos Discord server
 
 Pokud si chceš bota stáhnout a sám vyzkoušet, musíš mít nainstalovanou discord.js knihovnu.
