@@ -53,6 +53,9 @@ Potom musíš dát zkopírovaný link do Adresového řádku na svém internetov
 
 ZAPÍNANÍ BOTA
 
-Potom už stačí jít do command promptu, najít složku ve které máš bota uloženého (C:/bla/blah/bla/8vosbot.) a napsat příkaz: node .
+Potom už stačí jít do command promptu, najít složku ve které máš bota uloženého (C:/bla/blah/bla/8vosbot.) a napsat příkaz: 
+
+node .
+
 Jakmile ti bot napíše "Dobré ráno! Jsem přihlášen jako <jméno tvého bota>", jsi hotov a můžeš 8vosBota používat.
 
