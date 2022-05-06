@@ -9,6 +9,8 @@ Ještě nejde stáhnout, npm package nefunguje.
 
 
 Pokud si chceš bota sám vyzkoušet, budeš potřebovat program Node.js, který najdeš na jejich stránkách => https://nodejs.org/en/
+Jo a taky, github releasy nefungují. Pokud si bota chceš zprovoznit musíš podle návodu dole.
+
 
 STAHOVÁNÍ BOTA
 
