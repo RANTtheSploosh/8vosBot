@@ -5,6 +5,8 @@ Bot na 8vos Discord server. Také můj volnočasový projekt.
 
 
 JAK HO POUŽÍVAT?
+Ještě nejde stáhnout, npm package nefunguje.
+
 
 Pokud si chceš bota sám vyzkoušet, budeš potřebovat program Node.js, který najdeš na jejich stránkách => https://nodejs.org/en/
 
