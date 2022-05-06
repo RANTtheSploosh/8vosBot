@@ -1,0 +1,14 @@
+{
+  "name": "stalker",
+  "version": "1.0.0",
+  "description": "8vosbot",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RANT",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.3.1"
+  }
+}
