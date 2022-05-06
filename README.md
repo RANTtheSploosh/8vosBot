@@ -1,5 +1,5 @@
 # 8vosBot
-Bot na 8vos Discord server
+Bot na 8vos Discord server. Také můj volnočasový projekt.
 
 
 
@@ -45,6 +45,7 @@ Zkopíruj link v "Generated Url"
 Potom musíš dát zkopírovaný link do Adresového řádku na svém internetovém prohlížeči a pozveš bota na server, na kterém ho chceš mít.
 
 ZAPÍNANÍ BOTA
+
 Potom už stačí jít do Command promptu, najít složku ve které máš bota uloženého (C:/bla/blah/bla/8vosbot.) a napsat příkaz; node .
 Jakmile ti bot napíše Dobré ráno! Jsem přihlášen jako <jméno tvého bota>, jsi hotov a můžeš 8vosbota používat.
 
