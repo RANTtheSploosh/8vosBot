@@ -23,9 +23,7 @@ npm install 8vosbot -g
 npm list -g
 
 
-Poté stačí zkopírovat cestu, kterou poslední příkaz (npm list -g) vypíše. Tam najdeme našeho bota.
-
-nebo také
+Poté stačí zkopírovat cestu, kterou poslední příkaz (npm list -g) vypíše. Tam najdeme našeho bota. Také jde udělat napsat:
 
 npm install 8vosbot
 
