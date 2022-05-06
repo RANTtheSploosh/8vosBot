@@ -16,9 +16,7 @@ npm list -g
 
 Poté stačí zkopírovat cestu, kterou poslední příkaz (npm list -g) vypíše. Tam najdeme našeho bota.
 
-
-NEBO
-
+nebo také
 
 npm install 8vosbot
 
@@ -40,6 +38,7 @@ Takto zkopírovaný token dej do řádku token v configu.
 GuildID nemusíš rešit pokud neplánuješ bota modifikovat.
 
 ZVANÍ BOTA NA SERVER
+
 V neposlední řadě musíš jít znovu na Discord Developer Portal a najít tlačítka BOT > URL GENERATOR.
 Zaškrtni "bot" ve Scopes" a "Administrator" v "Bot Permissions".
 Zkopíruj link v "Generated Url"
