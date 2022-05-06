@@ -15,9 +15,13 @@ Jo a taky, github releasy nefungují. Pokud si bota chceš zprovoznit musíš po
 
 STAHOVÁNÍ BOTA
 
-Po stáhnutí stačí, aby jsi do command promptu napsal následující příkazy
+Po stáhnutí stačí, aby jsi do command promptu napsal následující příkazy.
+
+
 npm install 8vosbot -g
+
 npm list -g
+
 
 Poté stačí zkopírovat cestu, kterou poslední příkaz (npm list -g) vypíše. Tam najdeme našeho bota.
 
