@@ -9,6 +9,7 @@ JAK HO POUŽÍVAT?
 Pokud si chceš bota sám vyzkoušet, budeš potřebovat program Node.js, který najdeš na jejich stránkách => https://nodejs.org/en/
 
 STAHOVÁNÍ BOTA
+
 Po stáhnutí stačí, aby jsi do command promptu napsal následující příkazy
 npm install 8vosbot -g
 npm list -g
@@ -28,6 +29,7 @@ Ve složce node_modules se bude nacházet složka 8vosbot, ve které jsou všech
 
 
 DOPlŃOVÁNÍ config.json
+
 Najdi config.json a otevři ho v poznámkovém bloku.
 Potom jdi na https://discord.com/developers/applications a přihlaš se.
 Založ novou aplikaci, na jméně nezáleží.
