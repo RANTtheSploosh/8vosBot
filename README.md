@@ -30,7 +30,7 @@ Po stáhnutí by se ti někde měla objevit(Podle toho, jakou instalační metod
 Ve složce node_modules se bude nacházet složka 8vosbot, ve které jsou všechny soubory potřebné k provozu bota.
 
 
-DOPlŃOVÁNÍ config.json
+DOPlŇOVÁNÍ config.json
 
 Najdi config.json a otevři ho v poznámkovém bloku.
 Potom jdi na https://discord.com/developers/applications a přihlaš se.
